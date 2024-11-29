@@ -1,7 +1,5 @@
 # Simple-Calculator-project
-Python
-Advanced Python Calculator
-Overview
+
 This project is an implementation of a calculator in Python. It offers two modes of calculation: direct calculation and guided calculation. The calculator supports the basic arithmetic operations: addition, subtraction, multiplication, and division. The program is robust, handling invalid inputs and zero-division errors with clear, user-friendly messages.
 
 Features
